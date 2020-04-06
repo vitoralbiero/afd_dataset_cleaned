@@ -1,5 +1,5 @@
 # AFD Dataset Cleaned
-This repository contains the curated version of the AFD dataset as mentioned in the paper "Analysis of Gender Inequality In Face Recognition Accuracy".
+This repository contains the curated version of the AFD dataset from the paper "A Method for Curation of Web-Scraped Face Image Datasets".
 
 Get the [curated AFD dataset here].
 
@@ -11,13 +11,12 @@ Get the [original AFD dataset here].
 
 Please cite the papers below if you use the dataset.
 
-## Analysis of Gender Inequality In Face Recognition Accuracy
+## A Method for Curation of Web-Scraped Face Image Datasets
 ```
-@InProceedings{albiero_wacvw_2020,
-    author={Vítor Albiero, Krishnapriya K.S., Kushal Vangara, Kai Zhang, Michael C. King and Kevin W. Bowyer},
-    title = {Analysis of Gender Inequality In Face Recognition Accuracy},
-    booktitle={2020 IEEE Winter Conference on Applications of Computer Vision Workshops (WACVW)},
-    month = {March},
+@InProceedings{kai_curation_method,
+    author={Kai Zhang, Vítor Albiero and Kevin W. Bowyer},
+    title = {A Method for Curation of Web-Scraped Face Image Datasets},
+    booktitle={International Workshop on Biometrics and Forensics (IWBF)},
     year = {2020}
 }
 ```
