@@ -4,6 +4,7 @@ This repository contains the curated version of the AFD dataset from the paper "
 Get the [curated AFD dataset here].
 
 [curated AFD dataset here]:https://drive.google.com/open?id=11ysJh1iPuol-0LCiaof2ZEf0WqY8GEky
+To get the password for the file, please send an email to valbiero@nd.edu.
 
 Get the [original AFD dataset here].
 
